@@ -62,9 +62,9 @@
                 android:layout_width="290dp"
                 android:layout_height="wrap_content"
                 android:backgroundTint="#FFFFFF"
-                android:textColor="#999999"
                 android:drawableLeft="@drawable/ic_baseline_perm_identity_24"
-                android:hint="@string/ingresarUsuario" />
+                android:hint="@string/ingresarUsuario"
+                android:textColor="#999999" />
         </TableRow>
 
         <TableRow

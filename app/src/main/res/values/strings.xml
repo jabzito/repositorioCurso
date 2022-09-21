@@ -8,7 +8,7 @@
     /*Pagina View_Ingresar*/
     <string name="bienvenido">Bienvenido!</string>
     <string name="description_viewIngresar">Iniciar Sesión para continuar</string>
-    <string name="ingresarUsuario">Ingresar Usuario</string>
+    <string name="ingresarUsuario">Ingresar Usuariooop</string>
     <string name="ingresarContraseña">Ingresar Contraseña</string>
     <string name="btn_text_view_Ingresar">INGRESAR</string>
     <string name="olvidastecontrasena">¿Olvidaste tu contraseña?</string>
